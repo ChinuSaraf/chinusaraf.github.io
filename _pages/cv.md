@@ -15,7 +15,11 @@ Education
 
 Work experience
 ======
-* July 2019 - Present: Graduate Analyst at Barclays Global Service Centre Pvt. Ltd.
+* October 2021 - Present: Software Development Engineer II at Amazon Development Centre Pvt. Ltd.
+  * Managing the design and development of solutions for the AI-based platform with over 100 billion impressions per year.
+  * Analyzed weekly traffic of 80000 requests by developing python-based monitoring solution, leveraging AWS tools.
+
+* July 2019 - September 2021: Software Developer at Barclays Global Service Centre Pvt. Ltd.
   * Leveraged AWS tools and contributed new product features responsible for billing interest calculation and pre-processing. 
   * Implemented an automated testing application using ReactJS that helped in lessening over 66% manual efforts across a 15+ person QA team.
   * Worked on the development of projects that accounted for a reduction in the workload of customer support agents over 30%, especially during the COVID outbreak with agents working with a limited capacity.
