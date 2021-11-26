@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ashish Kshirsagar"
   avatar           : "profile.jpeg"
-  bio              : "Software Developer at Barclays | Mentor at Google Summer of Code 2021 with CERN-HSF"
+  bio              : "SDE-2 @Amazon | GSoC'19 @CERN-HSF"
   location         : "Pune, India"
-  employer         :
+  employer         : "Amazon"
   pubmed           : 
-  googlescholar    : 
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LXaXLaYAAAAJ"
+  email            : "ashishkshirsagar10@gmail.com"
   researchgate     : 
   uri              :
   bitbucket        :
