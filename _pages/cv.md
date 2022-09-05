@@ -48,6 +48,7 @@ Cancel changes
   * Effected a Python project to collect over 100 news articles from the feeds daily, analyzed the collected news feed through a sentiment analysis model, and generated insights separately for each author.
   * Revitalized the customer experience by presenting articles with detailed authors’ sentiments to help them validate if an author is genuinely indifferent towards the topic.
 
+<!--
 Publications
 ======
 
@@ -67,6 +68,8 @@ Publications
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+  
+  -->
   
 Service and leadership
 ======
