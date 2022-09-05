@@ -68,7 +68,7 @@ Publications
   
 Service and leadership
 ======
-* Selected as a Mentor at \href{https://hepsoftwarefoundation.org/gsoc/2021/proposal_TMVAOperatorBatchnorm.html}{\textbf{Google Summer of Code 2021} with \textbf{CERN-HSF}} organization. Assisted summer students for over 12 weeks in the design and code of ONXX-based machine learning models.
+* Selected as a Mentor at [https://hepsoftwarefoundation.org/gsoc/2021/proposal_TMVAOperatorBatchnorm.html](Google Summer of Code 2021) with \textbf{CERN-HSF}} organization. Assisted summer students for over 12 weeks in the design and code of ONXX-based machine learning models.
 * Mentored at \href{https://drive.google.com/file/d/10z8c3KzAd0JRQ3hJcwU1JrVoHmraruen/view?usp=sharing}{\textbf{Google Code-In 2019} with \textbf{TensorFlow}} organization. Tutored Machine Learning concepts to more than 25 school students and helped them implement TensorFlow models.
 * Ranked 4th on Kaggle Leaderboard at \textbf{Google India Hackathon} 2018 amongst 32 shortlisted teams to compete onsite for delivering a solution to the problem of Waste Segregation using deep learning.
 * Bagged the \textbf{second position} among 600 students who participated in the competitive programming contest \href{https://www.interviewbit.com/pages/company-coders-bit/}{\textbf{CodersBit - Pan India Annual Coding Challenge}} 2018 that covers over 300 Colleges all over India. 
