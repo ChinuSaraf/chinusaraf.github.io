@@ -69,8 +69,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-  -->
-  
 Service and leadership
 ======
 * Ranked 4th on Kaggle Leaderboard at Google India Hackathon 2018 amongst 32 shortlisted teams to compete onsite for delivering a solution to the problem of Waste Segregation using deep learning.
