@@ -68,9 +68,7 @@ Publications
   
 Service and leadership
 ======
-* Selected as a Mentor at [https://hepsoftwarefoundation.org/gsoc/2021/proposal_TMVAOperatorBatchnorm.html](Google Summer of Code 2021) with \textbf{CERN-HSF}} organization. Assisted summer students for over 12 weeks in the design and code of ONXX-based machine learning models.
-* Mentored at \href{https://drive.google.com/file/d/10z8c3KzAd0JRQ3hJcwU1JrVoHmraruen/view?usp=sharing}{\textbf{Google Code-In 2019} with \textbf{TensorFlow}} organization. Tutored Machine Learning concepts to more than 25 school students and helped them implement TensorFlow models.
-* Ranked 4th on Kaggle Leaderboard at \textbf{Google India Hackathon} 2018 amongst 32 shortlisted teams to compete onsite for delivering a solution to the problem of Waste Segregation using deep learning.
-* Bagged the \textbf{second position} among 600 students who participated in the competitive programming contest \href{https://www.interviewbit.com/pages/company-coders-bit/}{\textbf{CodersBit - Pan India Annual Coding Challenge}} 2018 that covers over 300 Colleges all over India. 
-* Supervised students across India to contribute to open source projects by implementing complex algorithms in C++ over a three-month program, \href{https://gssoc.girlscript.tech/}{\textbf{GirlScript Summer of Code 2018}}. 
-* Appointed as an \textbf{Organizer} and \textbf{Web developer} at \href{https://www.pictieee.in/}{PICT IEEE Students Branch} 2017, a technical unit that organizes technical and non-technical programs. Managed a team of 20 members that resulted in the participation of 3000+ students.
+* Ranked 4th on Kaggle Leaderboard at Google India Hackathon 2018 amongst 32 shortlisted teams to compete onsite for delivering a solution to the problem of Waste Segregation using deep learning.
+* Bagged the second position among 600 students who participated in the competitive programming contest [CodersBit - Pan India Annual Coding Challenge 2018](https://www.interviewbit.com/pages/company-coders-bit/) that covers over 300 Colleges all over India. 
+* Supervised students across India to contribute to open source projects by implementing complex algorithms in C++ over a three-month program, [GirlScript Summer of Code 2018](https://gssoc.girlscript.tech/). 
+* Appointed as an Organizer and Web developer at [PICT IEEE Students Branch](https://www.pictieee.in/) 2017, a technical unit that organizes technical and non-technical programs. Managed a team of 20 members that resulted in the participation of 3000+ students.
