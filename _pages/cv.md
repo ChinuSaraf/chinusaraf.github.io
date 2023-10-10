@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* May 2023 - August 2023: Software Engineering Intern at Google LLC
+  * Orchestrated user journey APIs, ensuring scalability for 1 billion+ Google Workspace users.
+  * Engineered graph based CRUD workflows utilizing Java, and Proto to improve overall p99 latency by 5%.
 * October 2021 - August 2022: Software Development Engineer II at Amazon Development Centre Pvt. Ltd.
   * Spearheaded crucial cross-platform projects for a new payment method scalable to 80000+ UK customers.
   * Aided the design of solutions for the payments platform with over 100 billion impressions per year using Java, Scala, and AWS technologies. Incorporated Engineer Excellence mechanisms through code reviews, documentation and scripts.
@@ -71,6 +74,8 @@ Publications
   
 Service and leadership
 ======
+* Contributed as a mentor at Grace Hopper Celebration (GHC) 2023 as an Open Source Day mentor for [https://github.com/ossf](OpenSSF).
+* Boosted 1st-6th grade students' reading, writing, and mathematics proficiency as an America Reads tutor.
 * Ranked 4th on Kaggle Leaderboard at Google India Hackathon 2018 amongst 32 shortlisted teams to compete onsite for delivering a solution to the problem of Waste Segregation using deep learning.
 * Bagged the second position among 600 students who participated in the competitive programming contest [CodersBit - Pan India Annual Coding Challenge 2018](https://www.interviewbit.com/pages/company-coders-bit/) that covers over 300 Colleges all over India. 
 * Supervised students across India to contribute to open source projects by implementing complex algorithms in C++ over a three-month program, [GirlScript Summer of Code 2018](https://gssoc.girlscript.tech/). 
