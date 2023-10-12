@@ -8,9 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-Certainly, here's an improved version of the "about" section:
-
 I am currently pursuing a Master's in Computer Science with a specialization in Artificial Intelligence at Arizona State University. My passion lies in the intersection of sports programming, machine learning, and building scalable platforms. During the summer of 2023, I had the privilege of working as a Software Engineering Intern at Google LLC, where I gained valuable industry experience and expanded my skill set.
 
 Before my internship at Google, I served as a Software Development Engineer II at Amazon Development Center Pvt. Ltd. in India. Here, I played a crucial role in designing and developing scalable systems and microservices, utilizing technologies such as AWS, Java, Spring Boot, and ReactJS. This experience honed my expertise in building robust and efficient platforms.
