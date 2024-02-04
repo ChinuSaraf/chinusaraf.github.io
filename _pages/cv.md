@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* January 2024 - Present: Software Engineering Intern at Tesla Inc
+  * Pioneered the sales interface development with Dotnet and C#, slashing team efforts by 60\% for each opportunity.
 * May 2023 - August 2023: Software Engineering Intern at Google LLC
   * Orchestrated user journey APIs, ensuring scalability for 1 billion+ Google Workspace users.
   * Engineered graph based CRUD workflows utilizing Java, and Proto to improve overall p99 latency by 5%.
