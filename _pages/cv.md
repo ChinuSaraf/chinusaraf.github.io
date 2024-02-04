@@ -15,7 +15,7 @@ redirect_from:
 Work experience
 ======
 * January 2024 - Present: Software Engineering Intern at **Tesla Inc**
-  * Pioneered the sales interface development with Dotnet and C#, slashing team efforts by 60\% for each opportunity.
+  * Pioneered the sales interface development with Dotnet and C#, slashing team efforts by 60% for each opportunity.
 * May 2023 - August 2023: Software Engineering Intern at **Google LLC**
   * Orchestrated user journey APIs, ensuring scalability for 1 billion+ Google Workspace users.
   * Engineered graph based CRUD workflows utilizing Java, and Proto to improve overall p99 latency by 5%.
@@ -23,8 +23,8 @@ Work experience
   * Spearheaded crucial cross-platform projects for a new payment method scalable to 80000+ UK customers.
   * Aided the design of solutions for the payments platform with over 100 billion impressions per year using Java, Scala, and AWS technologies. Incorporated Engineer Excellence mechanisms through code reviews, documentation, and scripts.
 * July 2019 - October 2021: Software Developer at **Barclays Global Service Centre Pvt. Ltd.**
-  * Implemented Spring Boot services utilizing AWS, reducing over 66\% manual efforts across 15+ member QA team. 
-  * Instituted APIs to automate 20\% of fraud management workflows with technologies such as JavaScript and SQL. 
+  * Implemented Spring Boot services utilizing AWS, reducing over 66% manual efforts across 15+ member QA team. 
+  * Instituted APIs to automate 20% of fraud management workflows with technologies such as JavaScript and SQL. 
   * Coached a senior analyst to develop a Python-based data analysis project during a year-long Reverse Mentoring Program.
 * May 2021 - August 2021: Mentor at **Google Summer of Code 2021 with CERN-HSF**
   * Architected the foundation of Inference Code Generation for Batch Normalization by designing GPU based software infrastructure.
