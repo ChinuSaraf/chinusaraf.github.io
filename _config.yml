@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashish Kshirsagar"
 title_separator          : "-"
 name                     : &name "Ashish Kshirsagar"
-description              : &description "MS CS @ASU | ex-SDE2 @Amazon | GSoC'19 @CERN"
+description              : &description "Intern @Tesla | MS CS @ASU | ex-Google Intern | ex-SDE2 @Amazon | ex-Barclays | GSoC'19 @CERN"
 url                      : https://Ask149.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Ask149/Ask149.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ashish Kshirsagar"
   avatar           : "profile.jpeg"
-  bio              : "MS CS @ASU | ex-SDE-2 @Amazon | GSoC'19 @CERN-HSF"
+  bio              : "Intern @Tesla | MS CS @ASU | ex-Google Intern | ex-SDE2 @Amazon | ex-Barclays | GSoC'19 @CERN"
   location         : "Tempe, AZ"
-  employer         :
+  employer         : "Tesla Inc"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=LXaXLaYAAAAJ"
-  email            : "akshirs4@asu.edu"
+  email            : "ashishkshirsagar914@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Ashish-Kshirsagar"
   uri              :
   bitbucket        :
