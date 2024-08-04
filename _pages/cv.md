@@ -30,7 +30,7 @@ Work experience
   * Developed a Blockchain-based decentralized web application as a solution to current cyber-attack vulnerable systems used in the automobile industry for managing the Supply Chain of the manufacturing process.
   * Utilized Hyperledger Fabric platform with tech-stack – Go, NodeJs, HTML, and CSS to implement the solution.
   * Demonstrated an instrumental role in designing the architecture and in the development of chaincode and middleware.
-  * 
+ 
 Education
 ======
 * *Master of Computer Science, University of Illinois Urbana-Champaign, USA*: August 2022 - December 2023
