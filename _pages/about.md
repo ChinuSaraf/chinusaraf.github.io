@@ -8,19 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my digital space!
+Welcome!
 
-Currently on a journey of mastering the art of **Artificial Intelligence**, I'm pursuing a Master's in Computer Science at **Arizona State University**. I thrive at the crossroads of **sports programming**, **machine learning**, and crafting scalable platforms. Presently, I'm diving into uncharted territories as a Software Engineering Intern at **Tesla**, immersed in an exhilarating new tech stack.
+I'm a Full Stack Developer at **Intercontinental Exchange**, where I dive deep into the world of trading and supporting applications. Think of me as the wizard behind the curtain, making magic happen with code. I wrapped up my Master of Computer Science at the **University of Illinois Urbana-Champaign** in December 2023, which means I survived both advanced algorithms and the Midwest winters.
 
-My summer of 2023 was painted with the Google colors as I embraced the role of a Software Engineering Intern at **Google LLC**. The experience was a symphony of learning, innovation, and hands-on industry exposure, expanding my skill set under the **Google** umbrella.
+Before my current adventure, I was an SDE Intern at **MathWorks**, where I got to flex my coding muscles. My previous quest was at **Deutsche Bank Group**, where I spent three years developing a web-based application to help the bank identify and assess risk. Imagine being the digital Sherlock Holmes of the financial world – that was me.
 
-Before the Google adventure, I wielded my coding prowess as a Software Development Engineer II at **Amazon Development Center Pvt. Ltd.** in India. In the realm of scalable systems and microservices, I danced with **AWS**, **Java**, **Spring Boot**, and **ReactJS**, crafting robust and efficient platforms.
+Before that, I was a Project Intern at **Persistent Systems**, working on a blockchain-based application. Yes, I was into blockchain before it was cool. I have a knack for designing scalable systems and microservices using C++, Java SpringBoot, ReactJS, and Oracle SQL. My interests are as diverse as a software engineering Swiss Army knife: web apps, mobile apps, and decentralized applications.
 
-My professional saga includes a stint as a Graduate Analyst at **Barclays**, where I contributed to projects ranging from card processing engines to fraud case management platforms. These endeavors deepened my understanding of **financial technology** and navigating complex systems.
+I completed my undergraduate studies in Computer Science at the Pune Institute of Computer Technology (PICT) in 2019. I am fluent in **Java, JavaScript, Python, and C++** – basically, if it’s a programming language, I've probably dabbled in it. I'm always looking to level up my skills and have proven myself through various projects, experiences, and the occasional coding-induced existential crisis.
 
-A fervent advocate of the open-source community, I donned the mentor hat at **CERN-HSF** during the **Google Summer of Code 2021** program. My passion resonates with **Artificial Intelligence**, with a special fondness for **Generative Adversarial Networks (GANs)**, **Convolutional Neural Networks**, and **General Purpose AI**.
-
-My undergraduate chapter unfolded at the **Pune Institute of Computer Technology (PICT)** in 2019. As a Student Developer at **CERN-HSF** during the **Google Summer of Code 2019** program, I honed my skills in **Java**, **C++**, **Python**, and **JavaScript**, ever eager to push the boundaries of my knowledge.
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/ask149) or drop me an [email](ashishkshirsagar914@gmail.com)! I'm always up for networking and exploring new frontiers. Cheers to the digital journey ahead! 🌟
+Let's connect on [LinkedIn](https://www.linkedin.com/in/chinmay-saraf/) or drop me an [email](chinmay.n.saraf@gmail.com)! I'm always up for networking and exploring new frontiers. Cheers to the digital journey ahead! 🌟
 
