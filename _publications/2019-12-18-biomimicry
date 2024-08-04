@@ -1,0 +1,12 @@
+---
+title: "Learning from Nature: Applications of Biomimicry in Technology"
+collection: publications
+permalink: /publication/2019-12-18-biomimicry
+excerpt: 'Biomimicry has a wide range of applications in various domains like algorithms, robotics, design, etc. We provided a compendium of many such applications in the Algorithm and Robotics domain to provide an entry point for the beginner to explore Biomimicry and its applications. The paper was presented at an IEEE international conference and is published on IEEE Xplore.'
+date: 2019-12-18
+venue: '2019 IEEE Pune Section International Conference (PuneCon), Pune, India'
+citation: 'A. Kulkarni and C. Saraf, "Learning from Nature: Applications of Biomimicry in Technology," <i>2019 IEEE Pune Section International Conference (PuneCon), 2019</i>, pp. 1-6, doi: 10.1109/PuneCon46936.2019.9105797.'
+---
+Many of the advancements made in the field of computers and robotics have been made possible due to an inspiration from nature. Observing the way insects behave gave us swarm algorithms, observing structure of neurons gave us Artificial Neural Networks etc. Biomimicry has been practiced since ancient times, and we are still learning from nature, whether in the field of robotics and smart systems, or in algorithms and networks. However, many of these Biomimetic applications are not directly apparent. This paper aims to summarize various such biomimetic applications in technology, along with giving a condensed explanation of the same.
+
+[Download paper here](https://chinusaraf.github.io/files/biomimicry.pdf)
