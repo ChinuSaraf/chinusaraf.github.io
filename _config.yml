@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ashish Kshirsagar"
+title                    : "Chinmay Saraf"
 title_separator          : "-"
-name                     : &name "Ashish Kshirsagar"
-description              : &description "Intern @Tesla | MS CS @ASU | ex-Google Intern | ex-SDE2 @Amazon | ex-Barclays | GSoC'19 @CERN"
-url                      : https://Ask149.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Chinmay Saraf"
+description              : &description "Full Stack Developer @ICE | ex-Associate @Deutsche Bank | ex-Intern @MathWorks| CS UIUC'23 | CS PICT'19"
+url                      : https://chinusaraf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Ask149/Ask149.github.io"
+repository               : "ChinuSaraf/chinusaraf.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ashish Kshirsagar"
+  name             : "Chinmay Saraf"
   avatar           : "profile.jpeg"
-  bio              : "Intern @Tesla | MS CS @ASU | ex-Google Intern | ex-SDE2 @Amazon | ex-Barclays | GSoC'19 @CERN"
-  location         : "Tempe, AZ"
-  employer         : "Tesla Inc"
+  bio              : "Full Stack Developer @ICE | ex-Associate @Deutsche Bank | ex-Intern @MathWorks| CS UIUC'23 | CS PICT'19"
+  location         : "Atlanta, GA"
+  employer         : "Intercontinental Exchange Inc"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=LXaXLaYAAAAJ"
-  email            : "ashishkshirsagar914@gmail.com"
-  researchgate     : "https://www.researchgate.net/profile/Ashish-Kshirsagar"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=CdkowWYAAAAJ"
+  email            : "chinmay.n.saraf@gmail.com"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ask149"
+  github           : "ChinuSaraf"
   google_plus      :
   keybase          :
-  instagram        : "ashishsk24"
+  instagram        : "chinmay-saraf"
   impactstory      : 
   lastfm           :
-  linkedin         : "ask149"
+  linkedin         : "Chinu_Saraf"
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "ashishsk149"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
