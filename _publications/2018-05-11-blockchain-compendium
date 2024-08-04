@@ -1,0 +1,12 @@
+---
+title: "Blockchain Platforms: A Compendium"
+collection: publications
+permalink: /publication/2018-05-11-blockchain-compendium
+excerpt: 'Many blockchain platforms are available like Hyperledger Fabric, Ethereum, corda, etc. We always end up with perplexity while choosing a platform for blockchain development. We provided a comparative analysis of all the Hyperledger platforms, Ethereum, and Corda to make a choice of the platform easily according to the requirement. We presented this paper at ICIRD-2018, an IEEE international conference, and is published on the IEEE Explore.'
+date: 2018-05-11
+venue: '2018 IEEE International Conference on Innovative Research and Development (ICIRD), Bangkok, Thailand'
+citation: 'C. Saraf and S. Sabadra, "Blockchain platforms: A compendium," <i>2018 IEEE International Conference on Innovative Research and Development (ICIRD)</i>, 2018, pp. 1-6, doi: 10.1109/ICIRD.2018.8376323.'
+---
+In recent years, cryptocurrencies gained popularity with Bitcoin. The main promising technology behind Bitcoin was `Blockchain'. Blockchain provided unique features like transactional privacy, system transparency, immutability of data, security with cryptography, etc. These features paved way for Blockchain in advancing many technologies like voting systems, IOT applications, supply chain management, banking, healthcare, insurance, etc. Blockchain development was boosted with the increasing demand of the technological update. Many blockchain platforms are available like hyperledger fabric, ethereum, corda, etc. We always end up with perplexity while choosing a platform for blockchain development. Through our survey, we provide a comparative analysis of all the hyperledger platforms, ethereum, corda to make a choice of the platform easily according to the requirement.
+
+[Download paper here](https://chinusaraf.github.io/files/blockchain-compendium.pdf)
