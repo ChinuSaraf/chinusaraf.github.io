@@ -13,11 +13,12 @@ redirect_from:
 Work experience
 ======
 * *Full Stack Developer* at *Intercontinental Exchange, Atlanta, GA* : January 2024 - Ongoing
-  * Implemented 7 features in trading applications which will be used by traders as a part of post-trading analysis.
-  * Working on performance improvement of the commodity trading application with Java Springboot and TypeScript.
+  * Delivered 15+ features for a trading application used by traders for post-trade analysis, enhancing efficiency.
+  * Improved performance of commodity trading analysis tools by 30% using Java SpringBoot and ReactTS.
+  * Contributing to the development of a centralized data system, set to unify data access across the organization.
 
 * *SDE Intern* at *The MathWorks Inc., Natick, MA* : May 2023 - August 2023
-  * Worked with the Simulink team in the enhancement of 3 Simulink components using C++, Javascript, and MATLAB.
+  * Collaborated with the team to enhance 3 major Simulink components using C++, JavaScript, and MATLAB.
   * Architected the design of a Simulink component of a simulation monitoring system.
  
 * *Associate* at *Deutsche Bank Group, India* : July 2019 - July 2022
@@ -42,7 +43,7 @@ Education
 
 Technical Skills
 ======
-* Programming Languages: Java, Javascript, Python, C++, C, Go, CUDA, MATLAB
+* Programming Languages: Java, Javascript, Typescript, Python, C++, C, Go, CUDA, MATLAB
 * Tools & Frameworks: React, Typescript, Spring boot, Angular, Nodejs, CodeQL, Android, Hyperledger Fabric, Ethereum, Gulp, GCP
 * Databases: Oracle SQL, MySQL, MongoDB, Neo4J
 
